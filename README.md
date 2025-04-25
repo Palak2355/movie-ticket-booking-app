@@ -69,6 +69,10 @@ docker-compose exec web python manage.py create_seats
 - Configure Jenkins to use this Jenkinsfile for the project.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/ff07cefe-32fb-4abb-ab93-93fd275667e1)
+![image](https://github.com/user-attachments/assets/17ca1fee-d590-45fc-bc67-f6b1194017e1)
+![image](https://github.com/user-attachments/assets/79036e4a-3ffc-4b8f-af65-71a832ae0d9b)
+![image](https://github.com/user-attachments/assets/47f8d77e-30f8-48d2-a8ff-470b6f0f73ad)
 
 ![image](https://github.com/user-attachments/assets/56920501-1196-40be-9f72-18e75605941a)
 ![image](https://github.com/user-attachments/assets/32fbdb39-3a6c-45de-88b1-298b62d72be0)
